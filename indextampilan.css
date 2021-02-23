@@ -1,0 +1,45 @@
+:root {
+  --input-padding-x: 1.5rem;
+  --input-padding-y: .75rem;
+}
+
+body {
+  background-image: url('img/bgopsi.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  background-position: auto;
+  background-size: 810px;
+  float: right;
+}
+
+.btn-login {
+  font-size: 0.1rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+  border-radius: 2rem;
+}
+
+.card-signin {
+  border: 0;
+  border-radius: 3rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.card-signin .card-body{
+  padding: 5rem;
+}
+
+.card-signin .card-body h4{
+  text-align: center;
+  font-weight: bolder;
+  
+}
